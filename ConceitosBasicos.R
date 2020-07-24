@@ -1,7 +1,10 @@
 #-------------------------------------------------------
 #           INTRODUÇÃO AO R
-#           Maria Clara Duque
 # -------------------------------------------------------
+
+# Nome: Maria Clara Duque
+# e-mail: clara_duque@poli.ufrj.br
+
 
 # Tópicos:
 
